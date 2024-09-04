@@ -1,0 +1,19 @@
+Vdd
+|
+|
+pMOS
+|
++--- Y (Output)
+|
+nMOS
+|
+GND
+
+A --|A        |B -- B
+nMOS     pMOS
+|            |
+|            |
+B --|A        |B -- A
+nMOS     pMOS
+|            |
+Y(Output)
